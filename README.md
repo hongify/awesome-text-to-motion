@@ -1,8 +1,11 @@
 # Awesome Text-to-Motion Generation
+**Last updated:** October 29, 2026
 
 ![Conceptual illustration of text-to-motion generation: a person walks forward, then raises one hand.](assets/text-to-motion-banner.png)
 
 A curated collection of research papers, datasets, benchmarks, and resources for **Text-to-Motion (T2M) Generation**, organized by generation methodology and research topic.
+
+
 
 This collection focuses on 3D human motion generation from natural language descriptions, including representation learning, autoregressive modeling, masked generative modeling, diffusion, flow matching, and multimodal language models.
 
